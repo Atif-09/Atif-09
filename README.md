@@ -3,7 +3,7 @@
 <!--
 **Atif-09/Atif-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
 - 🔭 I’m currently working on Android, Kotlin, Compose and Multiplatform
 - 🌱 I’m currently learning backend with SpringBoot
