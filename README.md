@@ -2,9 +2,6 @@
 
 ## About Me
 
-- 🔭 I'm currently working on **KMP, Compose and TDD**
-- 💬 Ask me about **Android, Kotlin, KMP, Compose**
-- 📫 How to reach me: **abdulbasit5361234@gmail.com**
 - 🔭 I’m currently working on **Android, Kotlin, Compose and Multiplatform**
 - 🌱 I’m currently learning backend with **SpringBoot**
 - 👯 I’m looking to collaborate on exciting and challenging projects in **Android, Kotlin and Compose Multiplatform**
